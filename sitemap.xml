@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://dzhas.ru/</loc></url><url><loc>https://dzhas.ru/privacy.html</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://dzhas.ru/</loc></url>
+  <url><loc>https://dzhas.ru/privacy.html</loc></url>
+  <url><loc>https://dzhas.ru/citizens.html</loc></url>
+  <url><loc>https://dzhas.ru/business.html</loc></url>
+  <url><loc>https://dzhas.ru/contracts.html</loc></url>
+  <url><loc>https://dzhas.ru/claims.html</loc></url>
+  <url><loc>https://dzhas.ru/labor.html</loc></url>
+  <url><loc>https://dzhas.ru/disputes.html</loc></url>
+  <url><loc>https://dzhas.ru/materials/contract-check.html</loc></url>
+  <url><loc>https://dzhas.ru/materials/claim.html</loc></url>
+  <url><loc>https://dzhas.ru/materials/first-message.html</loc></url>
+</urlset>
